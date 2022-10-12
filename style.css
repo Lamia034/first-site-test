@@ -1,0 +1,13 @@
+
+.header{
+    margin-top:0px;
+    width:1000 px;
+    height:100 px;
+    background-color:rgb(226, 83, 43);
+}
+.par{
+    width:1000 px;
+    height:100 px;
+    background-attachment: fixed;
+    background-color:blueviolet;
+}
