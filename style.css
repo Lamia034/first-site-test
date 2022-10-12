@@ -1,5 +1,9 @@
-
+* {
+    margin: 0;
+    padding: 0;
+}
 .header{
+    background-attachment: fixed;
     margin-top:0px;
     width:1000 px;
     height:100 px;
@@ -10,4 +14,8 @@
     height:100 px;
     background-attachment: fixed;
     background-color:blueviolet;
+}
+.span{
+    margin-left:50px;
+    margin-right:50px;
 }
